@@ -1,7 +1,7 @@
 ### Hi there 👋
           
 <img align="right" src="https://media.giphy.com/media/S9oecmLUi26zYzrTZt/giphy.gif" alt="alt text" width="250" height="200">
----
+
 My name is Manjul solanke. With over 10 years of experience in the IT industry, I am a DevOps Engineer, an enthusiast in Kubernetes, Automation and Cloud.
 
 I currently work at [GlobalLogic](https://www.globallogic.com) as a Consultant, helping partners to build high quality solutions using K8s on AWS Cloud.
