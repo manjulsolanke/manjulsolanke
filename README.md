@@ -11,12 +11,12 @@ My core technical skillset is in DevOps/Infra, but in recent years I've been mos
 the efficiencies that DevOps tools like Kubernetes and infrastructure-as-code can accomplish for an organization.
 
 ---
-- 🔭 I’m currently working on Kubernetes, AWS Cloud and Mircoservices Architect. 
+- 🔭 I’m currently working on Kubernetes, AWS Cloud and Mircoservices. 
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on DataOps.
 - 💬 Ask me about K8s.
 - 📫 How to reach me: [MailToMe](solankemn@gmail.com)
-- ⚡ Fun fact: Reading 
+- ⚡ Fun fact: Reading.
 - 🤝🏻 &nbsp;Connect with Me: <a href="https://www.linkedin.com/in/manjulsolanke"><img src="https://img.shields.io/badge/-Manjul%20Solanke-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 - 📝 Resume:  [Resume](https://drive.google.com/file/d/1Ohdt2lMzqVa8abhyY9K0At8GevOCPf15/view)
 ---
