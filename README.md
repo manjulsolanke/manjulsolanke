@@ -24,6 +24,8 @@ the efficiencies that DevOps tools like Kubernetes and infrastructure-as-code ca
 - 📝 Resume:  [Resume](https://drive.google.com/file/d/1Ohdt2lMzqVa8abhyY9K0At8GevOCPf15/view)
 ---
 
+
+
 **Technical Stack:**  
 
 <code><img height="20" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png"></code>
@@ -47,26 +49,10 @@ the efficiencies that DevOps tools like Kubernetes and infrastructure-as-code ca
 <code><img height="20" src="https://cncf-branding.netlify.app/img/projects/fluentd/horizontal/color/fluentd-horizontal-color.png"></code>
 
 
-
+---
 
 [![Manjul's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjulsolanke)](https://github.com/manjulsolanke)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjulsolanke)](https://github.com/manjulsolanke)
 
-
-
-<!--
-**manjulsolanke/manjulsolanke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Kubernetes and AWS Cloud.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about K8s.
-- 📫 How to reach me: solankemn@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Reading 
--->
