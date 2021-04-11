@@ -9,7 +9,11 @@ I currently work at [GlobalLogic](https://www.globallogic.com) as a Consultant, 
 My core technical skillset is in DevOps/Infra, but in recent years I've been most excited about
 the efficiencies that DevOps tools like Kubernetes and infrastructure-as-code can accomplish for an organization.
 
+
+
 ---
+<img align="right" src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" alt="alt text" width="250" height="200">
+
 - 🔭 I’m currently working on Kubernetes, AWS Cloud and Mircoservices. 
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on DataOps.
@@ -41,6 +45,8 @@ the efficiencies that DevOps tools like Kubernetes and infrastructure-as-code ca
 <code><img height="20" src="https://cncf-branding.netlify.app/img/projects/operatorframework/horizontal/color/operatorframework-horizontal-color.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://cncf-branding.netlify.app/img/projects/fluentd/horizontal/color/fluentd-horizontal-color.png"></code>
+
+
 
 
 [![Manjul's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjulsolanke)](https://github.com/manjulsolanke)
