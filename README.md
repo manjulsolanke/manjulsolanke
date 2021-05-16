@@ -1,13 +1,12 @@
 ### Hi there 👋
           
-<img align="right" src="https://media.giphy.com/media/S9oecmLUi26zYzrTZt/giphy.gif" alt="alt text" width="250" height="200">
+<img align="right" src="https://media.giphy.com/media/oNrQaV8zjY5RD7Ok67/giphy-downsized-large.gif" alt="alt text" width="250" height="200">
 
-My name is Manjul solanke. I am a DevOps Engineer, an enthusiast in Kubernetes, Automation and Cloud.
 
-I currently work at [GlobalLogic](https://www.globallogic.com) as a Consultant, helping partners to build high quality solutions using K8s on AWS Cloud.
+My name is Manjul solanke. Experienced DevOps Engineer with improving developmental agility by leveraging cloud-native applications and modern practices to create business value. 
 
-My core technical skillset is in DevOps/Infra, but in recent years I've been most excited about
-the efficiencies that DevOps tools like Kubernetes and infrastructure-as-code can accomplish for an organization.
+
+Highly proficient in building CI/CD pipelines, automating cloud infrastructure, orchestrating containers using Kubernetes, optimizing mission-critical deployments, application containerization, continuous monitoring and DevOps processes. A highly motivated and energetic team player with excellent communication and interpersonal skills. 
 
 
 
@@ -28,25 +27,26 @@ the efficiencies that DevOps tools like Kubernetes and infrastructure-as-code ca
 
 **Technical Stack:**  
 
-<code><img height="20" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png"></code>
-<code><img height="20" alt="Terraform" src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg"></code>
-<code><img height="20" alt="Docker" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?ssl=1"></code>
-<code><img height="20" alt="AWS" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=8"></code>
-<code><img height="16" alt="GitLab" src="https://about.gitlab.com/images/press/logo/preview/gitlab-logo-white-preview.png"></code>
-<code> <img height="20" src="https://jenkins.io/sites/default/files/jenkins_logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png"></code>
-<code><img height="20" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt74acb493aaf69084/5ea8c8dbf5880355558334cd/brand-elastic-stack-220x130.svg"></code>
-<code><img height="20" src="https://cncf-branding.netlify.app/img/projects/helm/horizontal/color/helm-horizontal-color.png"></code>
-<code><img height="20" src="https://cncf-branding.netlify.app/img/projects/jaeger/horizontal/color/jaeger-horizontal-color.png"></code>
-<code><img height="20" src="https://cncf-branding.netlify.app/img/projects/harbor/horizontal/color/harbor-horizontal-color.png"></code>
-<code><img height="20" src="https://cncf-branding.netlify.app/img/projects/argo/horizontal/color/argo-horizontal-color.png"></code>
-<code><img height="20" src="https://cncf-branding.netlify.app/img/projects/linkerd/horizontal/color/linkerd-horizontal-color.png"></code>
-<code><img height="20" src="https://cncf-branding.netlify.app/img/projects/operatorframework/horizontal/color/operatorframework-horizontal-color.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://cncf-branding.netlify.app/img/projects/fluentd/horizontal/color/fluentd-horizontal-color.png"></code>
+<code><img height="30" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png"></code>
+<code><img height="30" alt="Terraform" src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg"></code>
+<code><img height="30" alt="Docker" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?ssl=1"></code>
+<code><img height="30" alt="AWS" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=8"></code>
+<code><img height="30" alt="GitLab" src="https://about.gitlab.com/images/press/logo/preview/gitlab-logo-white-preview.png"></code>
+<code> <img height="30" src="https://jenkins.io/sites/default/files/jenkins_logo.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png"></code>
+<code><img height="30" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt74acb493aaf69084/5ea8c8dbf5880355558334cd/brand-elastic-stack-220x130.svg"></code>
+<code><img height="30" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_wordmark-700x203.png"></code>
+<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/helm/horizontal/color/helm-horizontal-color.png"></code>
+<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/jaeger/horizontal/color/jaeger-horizontal-color.png"></code>
+<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/harbor/horizontal/color/harbor-horizontal-color.png"></code>
+<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/argo/horizontal/color/argo-horizontal-color.png"></code>
+<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/linkerd/horizontal/color/linkerd-horizontal-color.png"></code>
+<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/operatorframework/horizontal/color/operatorframework-horizontal-color.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/fluentd/horizontal/color/fluentd-horizontal-color.png"></code>
 
 
 ---
