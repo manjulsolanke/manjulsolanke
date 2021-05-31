@@ -29,22 +29,22 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/manjulsolanke/manjulsolanke/images/golang.gif"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/manjulsolanke/manjulsolanke/images/docker.gif"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/manjulsolanke/manjulsolanke/images/k8s.gif"  height="75" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+    <img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/manjulsolanke/manjulsolanke/images/cicd.gif"  height="65" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+    <img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/manjulsolanke/manjulsolanke/images/terraform.gif" width="120" />
   </a>
   <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/manjulsolanke/manjulsolanke/images/helm.gif"  height="75" />
   </a>
  </p>
 
@@ -52,7 +52,7 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
   
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/manjulsolanke/manjulsolanke/images/aws.gif"  height="75" />
   </a>
  </p>
   
@@ -60,10 +60,10 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/manjulsolanke/manjulsolanke/images/grafana.gif" height="60" />&nbsp;&nbsp;
   </a>
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/manjulsolanke/manjulsolanke/images/prometheus.gif" height="65" />
   </a>
 
 </p>
@@ -72,10 +72,10 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/manjulsolanke/manjulsolanke/images/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
+    <img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/manjulsolanke/manjulsolanke/images/mongo.gif" height="80" />
   </a>
 </p>
 
