@@ -61,8 +61,10 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
   </a>
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/prometheus.gif" height="65" />
-  </a>
-
+    </a>
+  <a href="https://www.elastic.co/kibana" target="_blank" >
+     <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/kibana.gif" height="65" />
+     </a>        
 </p>
 
 ### Databases
