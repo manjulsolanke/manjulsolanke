@@ -16,7 +16,7 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
 - 👨‍💻 I’m currently working on Kubernetes, AWS ☁️  and Mircoservices. 
 - 👨‍🎓  I’m currently learning Python 🐍.
 - 👯 I’m looking to collaborate on DataOps.
--  💻  https://www.manjulsolanke.github.io
+-  💻  https://manjulsolanke.github.io
 - 🤝🏻 &nbsp;Connect with Me: <a href="https://www.linkedin.com/in/manjulsolanke"><img src="https://img.shields.io/badge/-Manjul%20Solanke-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 - 📝 Resume:  [Resume](https://drive.google.com/file/d/1Ohdt2lMzqVa8abhyY9K0At8GevOCPf15/view)
 - 💬 Ask me about K8s.
