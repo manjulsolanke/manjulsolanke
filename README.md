@@ -72,8 +72,11 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
      <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a>
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/mongo.gif" height="90" />&nbsp;&nbsp;
+     <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/mongo.gif" height="90" />&nbsp;&nbsp;
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" >
+     <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/elasticsearch.gif" height="90" />&nbsp;&nbsp;
+  </a>        
 </p>
 
 <code><img height="30" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png"></code>
