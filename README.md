@@ -29,10 +29,10 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
 
 <p float="left">
   <a href="https://unix.org/" target="_blank" >
-    <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/unix" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/unix.gif" height="90" />&nbsp;&nbsp;
   </a>        
-  <a href="https://unix.org/" target="_blank" >
-    <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/unix" height="90" />&nbsp;&nbsp;
+  <a href="https://www.vmware.com/" target="_blank" >
+    <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/vmware.gif" height="90" />&nbsp;&nbsp;
   </a>           
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/docker.gif" height="90" />&nbsp;&nbsp;
