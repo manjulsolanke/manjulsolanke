@@ -28,6 +28,12 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
 **Technical Stack:**  
 
 <p float="left">
+  <a href="https://unix.org/" target="_blank" >
+    <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/unix" height="90" />&nbsp;&nbsp;
+  </a>        
+  <a href="https://unix.org/" target="_blank" >
+    <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/unix" height="90" />&nbsp;&nbsp;
+  </a>           
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/docker.gif" height="90" />&nbsp;&nbsp;
   </a>
