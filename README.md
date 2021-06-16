@@ -74,7 +74,7 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
   <a href="https://www.mongodb.com/" target="_blank" >
      <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/mongo.gif" height="90" />&nbsp;&nbsp;
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" >
+  <a href="https://www.elastic.co/" target="_blank" >
      <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/elasticsearch.gif" height="90" />&nbsp;&nbsp;
   </a>        
 </p>
