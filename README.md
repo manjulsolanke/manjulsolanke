@@ -58,10 +58,11 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
   <a href="https://www.python.org/" target="_blank" >
     <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/python.gif"  height="75" />
   </a>
- </p>
- 
- <p float="left">
+
+  <p float="left">
+    <a href="https://unix.org/" target="_blank" >
      <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/bash.gif"  height="75" />
+    </a> 
  </p>
 
 #### Cloud
