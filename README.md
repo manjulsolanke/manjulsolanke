@@ -25,7 +25,7 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
 
 
 
-**Technical Stack:**  
+### Technical Stack
 
 <p float="left">
   <a href="https://unix.org/" target="_blank" >
@@ -52,7 +52,7 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
  </p>
 
 
-### Programming langauge/Scripting
+#### Programming langauge/Scripting
 
  <p float="left">
   <a href="https://www.python.org/" target="_blank" >
@@ -61,12 +61,10 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
  </p>
  
  <p float="left">
-    <a
      <img src="https://github.com/manjulsolanke/manjulsolanke/blob/main/images/bash.gif"  height="75" />
-    </a>
  </p>
 
-### Cloud
+#### Cloud
   
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
@@ -74,7 +72,7 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
   </a>
  </p>
   
-### Monitoring
+####  Monitoring
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
@@ -88,7 +86,7 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
      </a>        
 </p>
 
-### Databases
+#### Databases
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
