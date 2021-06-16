@@ -99,28 +99,6 @@ Highly proficient in building CI/CD pipelines, automating cloud infrastructure, 
   </a>        
 </p>
 
-<code><img height="30" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png"></code>
-<code><img height="30" alt="Terraform" src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg"></code>
-<code><img height="30" alt="Docker" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?ssl=1"></code>
-<code><img height="30" alt="AWS" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=8"></code>
-<code><img height="30" alt="GitLab" src="https://about.gitlab.com/images/press/logo/preview/gitlab-logo-white-preview.png"></code>
-<code> <img height="30" src="https://jenkins.io/sites/default/files/jenkins_logo.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/prometheus/icon/color/prometheus-icon-color.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png"></code>
-<code><img height="30" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt74acb493aaf69084/5ea8c8dbf5880355558334cd/brand-elastic-stack-220x130.svg"></code>
-<code><img height="30" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_wordmark-700x203.png"></code>
-<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/helm/horizontal/color/helm-horizontal-color.png"></code>
-<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/jaeger/horizontal/color/jaeger-horizontal-color.png"></code>
-<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/harbor/horizontal/color/harbor-horizontal-color.png"></code>
-<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/argo/horizontal/color/argo-horizontal-color.png"></code>
-<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/linkerd/horizontal/color/linkerd-horizontal-color.png"></code>
-<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/operatorframework/horizontal/color/operatorframework-horizontal-color.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://cncf-branding.netlify.app/img/projects/fluentd/horizontal/color/fluentd-horizontal-color.png"></code>
-
-
 
 ---
 
